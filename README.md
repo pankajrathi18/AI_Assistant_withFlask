@@ -1,4 +1,4 @@
-# AI Personal Assistant 🤖
+# AI Personal Assistant
 
 A simple AI personal assistant built with Flask, Python, JavaScript, and the OpenAI API.
 
